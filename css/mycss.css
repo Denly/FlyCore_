@@ -1,0 +1,103 @@
+#bigfly{
+	width: 100%;
+}
+#bigbtn{
+	position: absolute;
+	font-size: 60px;
+	color: black;
+	border-color: black;
+	border-radius: 10px;
+	border: black;
+	left: 260px;
+	top: 580px;
+	height: 200px;
+	width: 400px;
+}
+
+
+#flycore {
+	color:RED;
+
+}
+
+.flyLogo{
+	float:left;
+	}
+	
+
+h2{
+	line-height: 40px;
+}
+
+li {
+	float:left;
+	margin-right: 20px;	
+}
+.news{
+	margin-left: 250px;
+}
+#li_1{
+	margin-top: 15px;
+}
+
+.block2{
+	width: 520px;
+	display: inline-block;
+}
+
+.grid_4, .prefix_1{
+	position: absolute;
+	right: 270px;
+	
+}
+
+.grid_4_{
+	display: inline-block;
+	margin: 15px;
+}
+
+#mybr{
+	height: 500px !important;
+}
+
+.big_post3{
+
+}
+#BP{
+	display:block;
+}
+tbody {
+display: table-row-group;
+vertical-align: middle;
+border-color: inherit;
+width: 500px;
+}
+
+#bt {
+	width: 300px;
+	position: relative;
+	float: left;
+}
+
+.round_img{
+	border-radius: 50%;
+}
+.edubar{
+	display: inline-block;
+}
+.eduArticle{
+	display: inline-block;
+}
+#inline_id{
+	display: inline-block;
+	width: 200px;
+}
+
+.fc:hover{
+	color: red;
+}
+
+.fc{
+	padding-top: 0px;
+
+}
